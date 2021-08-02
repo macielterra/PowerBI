@@ -1,2 +1,2 @@
 # PowerBI
-Curso de Power BI - Data Sciency Academy
+Curso de Power BI - Prático.
